@@ -1,4 +1,4 @@
-![Demo GIF](banner3.gif)
+![Demo GIF](banner.gif)
 
 <p align="center">
   <a href="https://github.com/AmtazAhmedGazi" target="_blank">
@@ -29,7 +29,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
@@ -54,6 +53,7 @@
 
 ## Currently Learning
 
+![Next.js](https://img.shields.io/badge/Next.js-%23000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/Auth-JWT%20%26%20OAuth2-black?style=flat)
 ![Networking](https://img.shields.io/badge/CCNA-Networking-blue?style=flat)
