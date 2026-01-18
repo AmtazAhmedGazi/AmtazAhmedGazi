@@ -72,14 +72,15 @@
 
 ## GitHub Stats & Activity
 
+<div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmtazAhmedGazi&theme=radical&hide_border=true)
-
+<div>
 ---
 
 ## Languages
 
-- 🇬🇧 English
-- 🇧🇩 Bangla
+- English
+- Bangla
 
 ---
 
