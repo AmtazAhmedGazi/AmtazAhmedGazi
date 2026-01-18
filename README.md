@@ -4,7 +4,7 @@
   <a href="https://github.com/AmtazAhmedGazi" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/amtazahmedgazi" target="_blank">
+  <a href="www.linkedin.com/in/amtazahmedgazi" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/amtaz.ahmed2022" target="_blank">
@@ -20,7 +20,6 @@
 - 💻 Focused on **Frontend & Full‑Stack Web Development**
 - 🌐 Strong interest in **Computer Networking & Security (CCNA‑level)**
 - 🧠 Enjoy learning by building real‑world projects
-- 🎮 Interests: eSports, competitive gaming, technology, and problem solving
 
 ---
 
