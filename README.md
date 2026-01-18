@@ -72,9 +72,8 @@
 
 ## GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmtazAhmedGazi&theme=radical&hide_border=true" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=AmtazAhmedGazi&theme=radical&hide_border=true)
+
 ---
 
 ## Languages
