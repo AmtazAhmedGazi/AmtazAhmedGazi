@@ -17,7 +17,7 @@
 ## About Me
 
 - 🎓 Computer Science undergraduate at **American International University–Bangladesh (AIUB)**
-- 💻 Focused on **Frontend & Full‑Stack Web Development**
+- 💻 Focused on **Full‑Stack Web Development**
 - 🌐 Strong interest in **Computer Networking & Security (CCNA‑level)**
 - 🧠 Enjoy learning by building real‑world projects
 
