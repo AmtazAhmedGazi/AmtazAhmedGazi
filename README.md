@@ -18,7 +18,7 @@
 
 - 🎓 Computer Science undergraduate at **American International University–Bangladesh (AIUB)**
 - 💻 Focused on **Full‑Stack Web Development**
-- 🌐 Strong interest in **Computer Networking & Security (CCNA‑level)**
+- 🌐 Strong interest in **Computer Networking & Security**
 - 🧠 Enjoy learning by building real‑world projects
 
 ---
